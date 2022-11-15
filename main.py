@@ -1,0 +1,6 @@
+name = input("Enter username: ")
+age = input("Enter age: ")
+num_1 = int(input("Enter the first number: "))
+num_2 = int(input("Enter the second number: "))
+product = str(num_1 * num_2)
+print("The username is " + name + " and the age is " + age + "\nThe product is " + product)
